@@ -1,0 +1,4 @@
+﻿  arraysize.c
+D:\(0 2020 C coding)\Prj03\Prj03\arraysize.c(13,62): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\(0 2020 C coding)\Prj03\Prj03\arraysize.c(13,62): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+  Prj03.vcxproj -> D:\(0 2020 C coding)\Prj03\Debug\Prj03.exe
